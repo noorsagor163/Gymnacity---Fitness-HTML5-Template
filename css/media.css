@@ -1,0 +1,1337 @@
+@media(max-width:575.98px) {
+    .navbar-light .navbar-brand {
+        font-size: 28px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #FDFDFD;
+    }
+
+    .navbar-toggler span {
+        color: #fdfdfd;
+        font-size: 20px;
+    }
+
+    .navbar {
+        height: auto;
+        background: rgba(0, 0, 0, 0.85);
+    }
+
+    .navbar ul {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .search {
+        display: none;
+    }
+
+    .search-close {
+        display: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link:before,
+    .navbar-light .navbar-nav .nav-link.active:before {
+        width: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover:before,
+    .navbar-light .navbar-nav .nav-link.active:before {
+        width: 80px;
+    }
+
+    .slide-item1,
+    .slide-item2,
+    .slide-item3,
+    .slide-item4 {
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+
+    #video-ver #banner {
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text {
+        text-align: center;
+    }
+
+    #video-ver .banner-text {
+        text-align:center;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+    }
+
+    .banner-text h1 span {
+        font-size: 40px;
+    }
+
+    .slick-dots {
+        position: absolute;
+        top: calc(100% - 50px);
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 0;
+    }
+
+    .slick-dots li {
+        display: inline-block;
+    }
+
+    .slick-dots button {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+
+    .bslide-arrow {
+        display: none;
+    }
+
+    .banner-text ul li a {
+        padding: 8px 16px;
+    }
+
+    .noor-about {
+        display: none;
+    }
+
+    .extra-about {
+        display: none;
+    }
+
+    #about {
+        padding-top: 60px;
+        padding-bottom: 68px;
+    }
+
+    .about-play {
+        width: 60px;
+        height: 60px;
+    }
+
+    .about-play i {
+        font-size: 40px;
+    }
+
+    .sagor-about {
+        display: block;
+    }
+
+    .about-head h2 {
+        font-size: 30px;
+        padding-bottom: 34px;
+    }
+
+    .about-content {
+        text-align: center;
+    }
+
+    .about-btn {
+        margin-top: 30px;
+    }
+
+    .about-btn a {
+        padding: 8px 16px;
+    }
+
+    #join,
+    #join2 {
+        text-align: center;
+    }
+
+    .join-left h3 {
+        font-size: 22px;
+    }
+
+    .join-btn {
+        text-align: center;
+    }
+
+    .join-btn a {
+        padding: 8px 16px;
+    }
+
+    #join {
+        padding-bottom: 41px;
+    }
+
+    #classes {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .classes-head h2 {
+        font-size: 30px;
+    }
+
+    .cslide-arrow {
+        display: none;
+    }
+
+    #trainers {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .trainers-head h2 {
+        font-size: 30px;
+    }
+
+    .tslide-arrow {
+        display: none;
+    }
+
+    .calculator {
+        text-align: center;
+    }
+
+    .noormohammad {
+        display: none;
+    }
+
+    .bmi-result {
+        padding: 19px;
+        margin-left: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #schedule {
+        padding-top: 60px;
+        padding-bottom: 57px;
+    }
+
+    .schedule-side {
+        display: none;
+    }
+
+    .nav {
+        margin-bottom: 27px;
+    }
+
+    .schedule-item i {
+        font-size: 40px;
+    }
+
+    .schedule-item p {
+        font-size: 13px;
+    }
+
+    .schedule-item {
+        padding: 5px;
+    }
+
+    .schedule-item h4 {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #membership {
+        padding-top: 60px;
+        padding-bottom: 32px;
+    }
+
+    .membership-head h2 {
+        font-size: 30px;
+    }
+
+    .memship-btn a {
+        padding: 8px 16px;
+    }
+
+    .membership-item {
+        margin-bottom: 28px;
+    }
+
+    #testimonials {
+        padding-top: 60px;
+        padding-bottom: 2px;
+    }
+
+    .testimonials-head h2 {
+        font-size: 30px;
+    }
+
+    .test-item p {
+        font-size: 14px;
+    }
+
+    .test-name h5 {
+        font-size: 17px;
+        padding-top: 3px;
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    .test-name p {
+        font-size: 14px;
+        padding-left: 0;
+    }
+
+    .teslide-arrow {
+        display: none;
+    }
+
+    .contact-head h2 {
+        font-size: 30px;
+    }
+
+    .locate i {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 40px;
+    }
+
+    .con-left {
+        padding-left: 0 !important;
+    }
+
+    .con-right {
+        padding-right: 0 !important;
+    }
+
+    .contact-form {
+        margin-top: 25px;
+    }
+
+    .contact-info {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+    .footer-item {
+        padding-bottom:0;
+    }
+    .footer-news {
+        padding-bottom:60px;
+    }
+
+    .footer-item h3 {
+        padding-top: 20px;
+    }
+
+    .cpryt p {
+        line-height: 24px;
+        padding: 20px 0;
+    }
+
+    @media(width:480px) {
+
+        .test-img {
+            padding-left: 40px;
+            padding-right: 10px;
+        }
+
+        .fact-border::before {
+            width: 110px;
+        }
+
+        .fact-border::after {
+            width: 110px;
+        }
+
+        .footer-news .input-grpc {
+            margin: 0 50px;
+        }
+    }
+
+    @media(width:575px) {
+        .overlay h4 {
+            font-size: 17px;
+            padding-top:3px;
+        }
+
+        .overlay p {
+            font-size: 13px;
+            padding-top: 5px;
+            padding-bottom: 8px;
+            line-height: 22px;
+        }
+
+        #red-ver .overlay h4 {
+            font-size: 17px;
+            padding-top:3px;
+        }
+
+        #red-ver .overlay p {
+            font-size: 13px;
+            padding-top: 5px;
+            padding-bottom: 8px;
+            line-height: 22px;
+        }
+        #red-ver .test-name h5 {
+            padding-top: 9px;
+        }
+
+        .test-item {
+            padding: 0px;
+            margin: 30px 0;
+        }
+
+        .test-name p {
+            font-size: 13px;
+        }
+
+        .small-p {
+            padding: 10px 15px;
+            font-size: 13px;
+            margin: 0;
+        }
+
+        .fact-border::before {
+            width: 140px;
+        }
+
+        .fact-border::after {
+            width: 140px;
+        }
+
+        .quote i {
+            top: -15px;
+        }
+
+        .footer-news .input-grpc {
+            margin: 0 80px;
+        }
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px) {
+    .navbar-light .navbar-brand {
+        font-size: 28px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #FDFDFD;
+    }
+
+    .navbar-toggler span {
+        color: #fdfdfd;
+        font-size: 20px;
+    }
+
+    .navbar {
+        height: auto;
+        background: rgba(0, 0, 0, 0.85);
+    }
+
+    .navbar ul {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .search {
+        display: none;
+    }
+
+    .search-close {
+        display: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link:before,
+    .navbar-light .navbar-nav .nav-link.active:before {
+        width: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover:before,
+    .navbar-light .navbar-nav .nav-link.active:before {
+        width: 80px;
+    }
+
+    .slide-item1,
+    .slide-item2,
+    .slide-item3,
+    .slide-item4 {
+        padding-top: 230px;
+        padding-bottom: 100px;
+    }
+
+    .banner-text {
+        text-align: center;
+    }
+    #video-ver .banner-text {
+        text-align: center;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+    }
+
+    .banner-text h1 span {
+        font-size: 40px;
+    }
+
+    .slick-dots {
+        position: absolute;
+        top: calc(100% - 60px);
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 0;
+    }
+
+    .slick-dots li {
+        display: inline-block;
+    }
+
+    .slick-dots button {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+
+    .bslide-arrow {
+        display: none;
+    }
+
+    .banner-text ul li a {
+        padding: 8px 16px;
+    }
+
+    .noor-about {
+        display: none;
+    }
+
+    #about {
+        padding-top: 60px;
+        padding-bottom: 68px;
+    }
+
+    .about-play {
+        width: 60px;
+        height: 60px;
+    }
+
+    .about-play i {
+        font-size: 40px;
+    }
+
+    .sagor-about {
+        display: block;
+    }
+
+    .about-head h2 {
+        font-size: 30px;
+        padding-bottom: 34px;
+    }
+
+    .about-content {
+        text-align: center;
+    }
+
+    .about-btn {
+        margin-top: 30px;
+    }
+
+    .about-btn a {
+        padding: 8px 16px;
+    }
+
+    #join {
+        text-align: center;
+    }
+
+    .join-left h3 {
+        font-size: 22px;
+    }
+
+    .join-btn {
+        text-align: center;
+    }
+
+    .join-btn a {
+        padding: 8px 16px;
+    }
+
+    #join {
+        padding-bottom: 41px;
+    }
+
+    #classes {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .classes-head h2 {
+        font-size: 30px;
+    }
+
+    .cslide-arrow {
+        display: none;
+    }
+
+    .features-sm-bg {
+        background: #444444;
+    }
+
+    .features-sm-bg2 {
+        background: #333333;
+    }
+
+    #trainers {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .trainers-head h2 {
+        font-size: 30px;
+    }
+
+    .tslide-arrow {
+        display: none;
+    }
+
+    .overlay {
+        padding: 8px 10px;
+    }
+
+    .overlay h4 {
+        font-size: 19px;
+        padding-top: 5px;
+    }
+
+    .overlay p {
+        font-size: 13px;
+        padding-top: 5px;
+        padding-bottom: 8px;
+        line-height: 22px;
+    }
+
+    #red-ver .overlay {
+        padding: 8px 10px;
+    }
+
+    #red-ver .overlay h4 {
+        font-size: 19px;
+        padding-top: 8px;
+    }
+
+    #red-ver .overlay p {
+        font-size: 13px;
+        padding-top: 5px;
+        padding-bottom: 8px;
+        line-height: 22px;
+    }
+
+    .noormohammad {
+        display: none;
+    }
+
+    #bmi {
+        padding-bottom: 60px;
+    }
+
+    .calculator h3 {
+        padding-top: 20px;
+    }
+
+    .calculator p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .bmi-result {
+        padding: 19px;
+        margin-left: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #schedule {
+        padding-top: 60px;
+        padding-bottom: 57px;
+    }
+
+    .schedule-side {
+        display: none;
+    }
+
+    .nav {
+        margin-bottom: 27px;
+    }
+
+    .schedule-item i {
+        font-size: 40px;
+    }
+
+    .schedule-item p {
+        font-size: 13px;
+    }
+
+    .schedule-item {
+        padding: 5px;
+    }
+
+    .schedule-item h4 {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #fact {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #membership {
+        padding-top: 60px;
+        padding-bottom: 32px;
+    }
+
+    .membership-head h2 {
+        font-size: 30px;
+    }
+
+    .memship-btn a {
+        padding: 8px 16px;
+    }
+
+    .membership-item {
+        margin-bottom: 28px;
+    }
+
+    #testimonials {
+        padding-top: 60px;
+        padding-bottom: 2px;
+    }
+
+    .testimonials-head h2 {
+        font-size: 30px;
+    }
+
+    .test-item p {
+        font-size: 14px;
+    }
+
+    .test-name h5 {
+        font-size: 17px;
+        padding-top: 3px;
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    .test-name p {
+        font-size: 14px;
+        padding-left: 0;
+    }
+
+    .test-item {
+        padding: 0px;
+        margin: 30px 0;
+    }
+
+    .test-name p {
+        font-size: 13px;
+    }
+
+    .small-p {
+        padding: 10px 15px;
+        font-size: 13px;
+        margin: 0;
+    }
+
+    .quote i {
+        top: -15px;
+    }
+
+    .teslide-arrow {
+        display: none;
+    }
+
+    .contact-head h2 {
+        font-size: 30px;
+    }
+
+    .locate i {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 40px;
+    }
+
+    .con-left {
+        padding-left: 0 !important;
+    }
+
+    .con-right {
+        padding-right: 0 !important;
+    }
+
+    .contact-form {
+        margin-top: 25px;
+    }
+
+    .contact-info {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .footer-logo p {
+        padding-bottom: 15px;
+    }
+
+    .footer-item ul li {
+        padding-bottom: 15px;
+    }
+
+    .cpryt p {
+        line-height: 24px;
+        padding: 20px 0;
+    }
+}
+
+
+
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-light .navbar-brand {
+        font-size: 28px;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #FDFDFD;
+    }
+
+    .navbar-toggler span {
+        color: #fdfdfd;
+        font-size: 20px;
+    }
+
+    .navbar {
+        height: auto;
+        background: rgba(0, 0, 0, 0.85);
+    }
+
+    .navbar ul {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .search {
+        display: none;
+    }
+
+    .search-close {
+        display: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link:before,
+    .navbar-light .navbar-nav .nav-link.active:before {
+        width: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover:before,
+    .navbar-light .navbar-nav .nav-link.active:before {
+        width: 80px;
+    }
+
+    .slide-item1,
+    .slide-item2,
+    .slide-item3,
+    .slide-item4 {
+        padding-top: 260px;
+        padding-bottom: 130px;
+    }
+
+    .banner-text {
+        text-align: center;
+    }
+    
+    #video-ver .banner-text {
+        text-align: center;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+    }
+
+    .banner-text h1 span {
+        font-size: 40px;
+    }
+
+    .slick-dots {
+        position: absolute;
+        top: calc(100% - 60px);
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 0;
+    }
+
+    .slick-dots li {
+        display: inline-block;
+    }
+
+    .slick-dots button {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+
+    .bslide-arrow {
+        display: none;
+    }
+
+    .banner-text ul li a {
+        padding: 8px 16px;
+    }
+
+    .sagor-about {
+        display: none !important;
+    }
+
+    .noor-about {
+        display: none;
+    }
+
+    .extra-about {
+        display: none;
+    }
+
+    #about {
+        padding-top: 60px;
+        padding-bottom: 68px;
+    }
+
+    .about-play {
+        width: 60px;
+        height: 60px;
+    }
+
+    .about-play i {
+        font-size: 40px;
+    }
+
+    .about-head h2 {
+        font-size: 30px;
+        padding-bottom: 0px;
+    }
+
+    .about-content p {
+        padding-top: 0;
+        padding-bottom: 10px;
+        line-height: 25px;
+        margin-top: -8px;
+    }
+
+    .about-btn {
+        margin-top: 30px;
+    }
+
+    .about-btn a {
+        padding: 8px 16px;
+    }
+
+    #join {
+        text-align: center;
+    }
+
+    .join-left h3 {
+        font-size: 22px;
+    }
+
+    .join-btn {
+        text-align: center;
+    }
+
+    .join-btn a {
+        padding: 8px 16px;
+    }
+
+    #join {
+        padding-bottom: 41px;
+    }
+
+    #classes {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .classes-head h2 {
+        font-size: 30px;
+    }
+
+    .cslide-arrow {
+        display: none;
+    }
+
+    .features-sm-bg {
+        background: #444444;
+    }
+
+    .features-sm-bg2 {
+        background: #333333;
+    }
+
+    #trainers {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .trainers-head h2 {
+        font-size: 30px;
+    }
+
+    .tslide-arrow {
+        display: none;
+    }
+
+    .overlay {
+        padding: 8px 10px;
+    }
+
+    .overlay h4 {
+        font-size: 17px;
+        padding-top: 2px;
+        padding-bottom: 20px;
+    }
+
+    .overlay p {
+        display: none;
+    }
+
+    .overlay i {
+        width: 25px;
+        height: 25px;
+        line-height: 23px;
+    }
+
+    #red-ver .overlay {
+        padding: 8px 10px;
+    }
+
+    #red-ver .overlay h4 {
+        font-size: 17px;
+        padding-top: 2px;
+        padding-bottom: 20px;
+    }
+
+    #red-ver .overlay p {
+        display: none;
+    }
+
+    #red-ver .overlay i {
+        width: 25px;
+        height: 25px;
+        line-height: 23px;
+    }
+
+    .trainers-item h3 {
+        padding: 20px 0;
+    }
+
+    .noormohammad {
+        display: none;
+    }
+
+    #bmi {
+        padding-bottom: 60px;
+    }
+
+    .calculator h3 {
+        padding-top: 20px;
+    }
+
+    .calculator p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .bmi-result {
+        padding: 19px;
+        margin-left: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #schedule {
+        padding-top: 60px;
+        padding-bottom: 57px;
+    }
+
+    .schedule-side {
+        display: none;
+    }
+
+    .nav {
+        margin-bottom: 27px;
+    }
+
+    .schedule-item i {
+        font-size: 40px;
+    }
+
+    .schedule-item p {
+        font-size: 13px;
+    }
+
+    .schedule-item {
+        padding: 5px;
+    }
+
+    .schedule-item h4 {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #fact {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+
+    #membership {
+        padding-top: 60px;
+        padding-bottom: 32px;
+    }
+
+    .membership-head h2 {
+        font-size: 30px;
+    }
+
+    .memship-btn a {
+        padding: 8px 16px;
+    }
+
+    .membership-item {
+        margin-bottom: 28px;
+    }
+
+    #testimonials {
+        padding-top: 60px;
+        padding-bottom: 2px;
+    }
+
+    .testimonials-head h2 {
+        font-size: 30px;
+    }
+
+    .test-item p {
+        font-size: 14px;
+    }
+
+    .test-name h5 {
+        font-size: 15px;
+        padding-top: 3px;
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    .test-name p {
+        font-size: 12px;
+        padding-left: 0;
+    }
+
+    .test-item {
+        padding: 0px;
+        margin: 30px 0;
+    }
+
+    .small-p {
+        padding: 10px 15px;
+        font-size: 13px;
+        line-height: 22px;
+        margin: 0;
+    }
+
+    .quote i {
+        top: -15px;
+    }
+
+    .teslide-arrow {
+        display: none;
+    }
+
+    .contact-head h2 {
+        font-size: 30px;
+    }
+
+    .locate i {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 40px;
+    }
+
+    .con-left {
+        padding-left: 0 !important;
+    }
+
+    .con-right {
+        padding-right: 0 !important;
+    }
+
+    .contact-form {
+        margin-top: 25px;
+    }
+
+    .contact-info {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .footer-logo p {
+        padding-bottom: 15px;
+    }
+
+    .footer-item ul li {
+        padding-bottom: 15px;
+    }
+
+    .footer-margin-sm {
+        margin-bottom: 10px;
+    }
+
+    .cpryt p {
+        line-height: 24px;
+        padding: 20px 0;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199.98px) {
+    .navbar-light .navbar-nav {
+        padding-top: 7px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-right: 6px;
+        margin-left: 6px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .navbar-light .navbar-nav .nav-link::before,
+    .navbar-light .navbar-nav .nav-link.active::before {
+        height: 12px;
+    }
+
+    .search-form {
+        width: 600px;
+        height: 34px;
+        left: 31%;
+        transform: translateX(0);
+    }
+
+    .search-form::before {
+        width: 643px;
+        height: 1px;
+        bottom: -7px;
+        left: -23px;
+    }
+
+    .search-form button {
+        font-size: 14px;
+        top: 10px;
+        left: -20px;
+    }
+
+    .search-close {
+        top: 0px;
+        right: 30px;
+        height: 65px;
+        line-height: 74px;
+        font-size: 16px;
+    }
+
+    .search-form input {
+        width: 100%;
+        height: 40px;
+        padding-left: 15px;
+        font-size: 14px;
+        margin-left: 0;
+    }
+
+    .slide-item1,
+    .slide-item2,
+    .slide-item3,
+    .slide-item4 {
+        padding-top: 280px;
+        padding-bottom: 160px;
+    }
+
+    .extra-about {
+        display: none;
+    }
+
+    .about-992 {
+        display: block;
+        padding-top: 0 !important;
+    }
+
+    .about-content p {
+        line-height: 25px;
+        padding-top: 14px;
+    }
+
+    .overlay p {
+        padding-bottom: 20px;
+    }
+
+    .overlay {
+        padding: 20px;
+    }
+
+    #red-ver .overlay p {
+        padding-bottom: 20px;
+    }
+
+    #red-ver .overlay {
+        padding: 20px;
+    }
+    .bmi-img img {
+        position: absolute;
+        top: 36px;
+        left: 0;
+    }
+
+    .schedule-item {
+        padding: 8px;
+    }
+
+    .schedule-side h3 {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .schedule-side p {
+        padding-top: 0px;
+    }
+
+    .test-name h5 {
+        font-size: 18px;
+        padding-top: 7px;
+    }
+
+    .test-name p {
+        font-size: 15px;
+    }
+
+    .contact-form {
+        padding: 20px;
+    }
+
+    .contact-form .form-control {
+        margin-bottom: 13px;
+    }
+}
